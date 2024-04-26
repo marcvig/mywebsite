@@ -115,7 +115,7 @@
     "mx set mark x at current cursor position",
     "`x jump to mark x",
     "'x jump to start of line for mark x",
-    "`" go to previous position",
+    " go to previous position",
     "'. go to last edit position",
     "'. go to last edit position"
   ],
