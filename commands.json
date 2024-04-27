@@ -111,12 +111,6 @@
         ":g/pattern/d delete all lines containing pattern",
         ":v/pattern/d delete all lines not containing pattern"
     ],
-    "Marks and positions": [
-        "mx set mark x at current cursor position",
-        "`x jump to mark x",
-        "'x jump to start of line for mark x",
-        "'. go to last edit position"
-    ],
     "Search in multiple files": [
         ":vimgrep /pattern/ *.cpp find pattern in *.cpp files",
         ":cn cycle forward through matches",
